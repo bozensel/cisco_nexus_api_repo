@@ -1,4 +1,4 @@
-# cisco_nexus_api_repo
+# Cisco_nexus_api_repo
 How to get sample Cisco commands using APIs.
 
 Connected to cisco Nexus device using APIs. Run some samples commands and the interface gives the data in json format. 
